@@ -66,13 +66,29 @@ html{
 #struttura2 p{
     font-size: 25px;
     padding: ;
+}
+#img9 p {
 
+}
+#img10 p{
+    text-decoration: none;
+    font-size: x-large;
+    text-align: center;
+}
+#struttura2 a {
+text-decoration: none;
+color: green;
+font-weight: bolder;
 }
 #IntGift{
     margin: 0 10 px;
      text-decoration: none;  
      color: solid rgb(0, 0, 0);
     
+}
+#struttura2 img{
+    border-radius: 10px;
+    margin-left: 20px;
 }
 .img1234{
     display: flex;
@@ -81,6 +97,7 @@ html{
     margin-right: 100px; 
     -ms-flex-align: center;
     align-items: end;
+    text-align: center;
 }
 .img1234 img {
     width: 20%;
