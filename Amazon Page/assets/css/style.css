@@ -3,12 +3,10 @@ header {
     height:12px ;
     padding: ;
     border: ;
-    /* margin:0px 0px 100px 0px; */
 
 }
 #logo{
     background-color: #222f3f;
-   /*  background-image: url(images/logo.png); */
 }
 
 
@@ -106,10 +104,21 @@ margin-right: 20px;
         padding: 0;
 }
 
-a{
+a #text1{
     font-size: large;
     color: aliceblue;
     margin-right: auto;
     text-decoration: none;
     margin-left: 500px 
+    text-decoration: none;
+}
+
+#text{
+    font-size: large;
+    color: solid black;
+    /* margin-right: auto; */
+    text-decoration: none;
+    margin-left: 500px;
+    /* background-color: aqua; */
+    text-align: center;
 }
