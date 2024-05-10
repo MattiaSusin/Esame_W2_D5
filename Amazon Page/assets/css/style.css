@@ -1,0 +1,115 @@
+header { 
+    width:100% ;
+    height:12px ;
+    padding: ;
+    border: ;
+    /* margin:0px 0px 100px 0px; */
+
+}
+#logo{
+    background-color: #222f3f;
+   /*  background-image: url(images/logo.png); */
+}
+
+
+header nav {
+    background-color: #364759;
+}
+header nav a{
+    margin-left: 10px 
+}
+#bordi{
+    width: 2854.5px;
+    height:1690px; 
+    padding: 60px;
+    border: 0px solid rgb(215, 233, 137) ;  
+    margin:0px  ; 
+    box-sizing: border-box;
+    /* background-color:solid blue; */
+}
+
+html{
+    width: 2854.5px;
+    height:2590px; 
+    padding: 60px;
+    border: 15px solid rgb(215, 233, 137) ;  
+    margin:0px  ; 
+    box-sizing: border-box;
+}
+
+#arancio{
+    text-align: center;
+    background-color: #fb6300;
+    height: 100px;
+    margin: 10px 0px;
+    line-height: 50px;
+}
+
+#testo1{
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    background-image: url(./images/bg-image.png);
+    background-size:cover;
+    margin: 10px 0px;
+    line-height: 46px;
+}
+#IntGift{
+    margin: 0 10 px;
+     text-decoration: none;  
+     color: solid rgb(0, 0, 0);
+    
+}
+.img1234{
+    display: flex;
+    background-color: blanchedalmond;
+    border-radius: 100%;
+    margin-right: 100px; 
+    -ms-flex-align: center;
+    align-items: end;
+}
+.img1234 img {
+    width: 20%;
+    height: 450px;
+    border-radius: 25px; 
+    object-fit: cover; 
+    object-position: center; 
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2);
+    margin: 0 43px;
+    margin-top: 10px;
+}
+#image{
+border-radius: 150px;
+margin-right: 20px;
+}
+ #img9{
+    width: 100%;
+ }
+#struttura2{
+    margin: 20px 0px;
+    border: 10px;
+    background-color: aqua;
+}
+#penultimo{
+    width: ;
+    height: 30px;;
+    background-color: #364759;
+    text-align: center;
+    color: solid white;
+    line-height: 35px;
+}
+#logoFinale{
+        text-align: center;
+        background-color: #222f3f;
+        width:100%;
+        margin: 0;
+        padding: 0;
+}
+
+a{
+    font-size: large;
+    color: aliceblue;
+    margin-right: auto;
+    text-decoration: none;
+    margin-left: 500px 
+}
